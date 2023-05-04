@@ -20,3 +20,4 @@ Taller #3: https://github.com/davidgonzalocordon/Taller_3/tree/master/src/main/j
 
 
 CORTE 3
+Correpccion Parcial del segundo corte: https://github.com/davidgonzalocordon/correpcion_Parcial
